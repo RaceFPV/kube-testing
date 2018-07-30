@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: racefpv/nginx:secondtry
+        image: racefpv/nginx:thirdtry
         ports:
         - containerPort: 80
           name: nginx
